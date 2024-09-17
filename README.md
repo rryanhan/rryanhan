@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Pronouns: he/him
+- Location: Vancouver, BC, CAN
+- School: UBC
+- Major: Cognitive Science (Systems) - Focus on Data Science and Computer Science
+- Languages: Python, R, HTML, CSS, JavaScript, BSL
